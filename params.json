@@ -1,0 +1,6 @@
+{
+  "name": "C++ Arkanoid with open source code",
+  "tagline": "C++ Arkanoid with open source code",
+  "body": "# OpenSource-C-Arkanoid\r\nC++ Arkanoid with open source code\r\n\r\nИсходные тексты в стандарте C++11, являются кроссплатформенными.\r\n\r\nМожно компилировать под \"юниксы\" на gcc (для запуска под \"юникс\" потребуется установленный опенсурс пакет ImageMagick).\r\n\r\nОписание папок в архиве:\r\n \r\n Binaries(MinGW-W64.gcc) - ресурсы и бинарники откомпилированные в mingw-w64 (64-битный gcc для Windows)\r\n \r\n Binaries(MSVC++.Win32) - ресурсы и бинарники откомпилированные в Microsoft VC++ (VS2013) (Win32)\r\n \r\n Resource Sources - исходные картинки и PSD\r\n \r\n Source - исходные тексты на кроссплатформенном C++11\r\n\r\nP.S.: \"convert.exe\" в папках с бинарниками - файл из пакета ImageMagick, нужен для работы с ресурсами\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
